@@ -17,3 +17,6 @@ Esta es mi primerita vez
 *[pwm1 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM1_arduino.ino)
 
 *[pwm2 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM2_arduino.ino)
+
+*[fermin arduino](https://github.com/ItsMonxxu/Arduino/blob/main/fermin_arduino.ino)
+
