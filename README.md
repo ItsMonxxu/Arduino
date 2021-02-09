@@ -21,3 +21,5 @@ Esta es mi primerita vez
 * [fermin arduino](https://github.com/ItsMonxxu/Arduino/blob/main/fermin_arduino.ino)
 
 ![texto](https://github.com/ItsMonxxu/Arduino/blob/main/IMG_20210208_123210.jpg)
+
+[CLASE](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
