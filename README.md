@@ -18,6 +18,8 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 [pwm2 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM2_arduino.ino)
 
+[PWM 2.1](https://github.com/ItsMonxxu/Arduino/blob/main/pwm2.1.ino)
+
 [PWM3 ARDUINO](https://github.com/ItsMonxxu/Arduino/blob/main/PWM3_ARDIONO.ino)
 
 [arduino 5 leds](https://github.com/ItsMonxxu/Arduino/blob/main/ARDUINO_5_LED_TEMPERATURA.ino)
