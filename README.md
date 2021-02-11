@@ -12,6 +12,10 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 ## Índice de proyectos
 
+* [Proyectos con LED](https://github.com/ItsMonxxu/Arduino#proyectos-con-led)
+
+* Proyectos sensor temperatura
+
 ## Proyectos con LED
 
 [pwm1 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM1_arduino.ino)
