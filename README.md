@@ -5,9 +5,11 @@ Esta es mi primerita vez
 
 Este texto no tiene formato, **en negrita** y este _esta en cursiva_
 
+<b>texto</b>
 
+<i>texto</i>
 
-
+<del>texto</del>
 
 
 
