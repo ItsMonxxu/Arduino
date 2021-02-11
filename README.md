@@ -1,23 +1,32 @@
 #  Proyecto de arduino
-## empezando a documentar 
-Esta es mi primerita vez
+
+## Descripción del proyecto
 
 
 
+Esto es parte de la programación de **arduino**. Lo que ves esta creado por Ramon Mir mejor conocido como ItsMonxxu 
+[Instagram](https://www.instagram.com/itsmonxxu/) 
+te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber como soy y si quieres seguirme puedes seguir.  Esto es lo que hacemos con arduino, esto lo subo aqui por si alguien lo quiere usar o por si alguien necesita ayuda aqui lo tiene echo y por si lo quieres hacer tu lo puedes usar de guia.
 
-## Esto es parte de la programación de **arduino**. Lo que ves esta creado por Ramon Mir mejor conocido como ItsMonxxu 
-## [Instagram](https://www.instagram.com/itsmonxxu/) 
-## te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber como soy y si quieres seguirme puedes seguir.
-## Esto es lo que hacemos con arduino, esto lo subo aqui por si alguien lo quiere usar o por si alguien necesita ayuda aqui lo tiene echo y por si lo quieres hacer tu lo puedes usar de guia.
-## Cualquier cosa al MD de instagram.
+ Cualquier cosa al MD de instagram.
 
+## Índice de proyectos
 
+### Proyectos con servomotor y potenciómetro 
 
+[Proyecto de servomotor con potenciómetro]()
 
+![texto](https://github.com/ItsMonxxu/Arduino/blob/main/IMG_20210208_123210.jpg)
 
+### Otra documentación y enlaces
 
+#### Referencia de markdown y emojis
+
+[Emojis](https://emojikeyboard.io/)
 
 [Cosas de programación Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
 
 
 * [Indicador del estado de ánimo](https://github.com/ItsMonxxu/Arduino/blob/main/Indicador_de_estado_de_animo_arduino.ino)
@@ -36,7 +45,6 @@ Esta es mi primerita vez
 
 * [fermin arduino](https://github.com/ItsMonxxu/Arduino/blob/main/fermin_arduino.ino)
 
-![texto](https://github.com/ItsMonxxu/Arduino/blob/main/IMG_20210208_123210.jpg)
 
 [CLASE](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
@@ -60,3 +68,6 @@ Este texto no tiene formato, **en negrita** y este _esta en cursiva_
 ### Proyectos
 ### Proyectos
 ### Proyectos
+
+## empezando a documentar 
+Esta es mi primerita vez
