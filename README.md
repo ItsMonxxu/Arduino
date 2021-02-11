@@ -14,7 +14,20 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 * [Proyectos con LED](https://github.com/ItsMonxxu/Arduino#proyectos-con-led)
 
-* Proyectos sensor temperatura
+* [Proyectos sensor temperatura](https://github.com/ItsMonxxu/Arduino#proyectos-sensor-temperatura)
+
+* [Proyectos LED RGB](https://github.com/ItsMonxxu/Arduino#proyectos-led-rgb)
+
+* [Proyectos con altaboz](https://github.com/ItsMonxxu/Arduino#proyectos-con-altaboz)
+
+* [Proyectos con servomotor y potenciómetro](https://github.com/ItsMonxxu/Arduino#proyectos-con-servomotor-y-potenci%C3%B3metro)
+
+* [Otra documentación y enlaces](https://github.com/ItsMonxxu/Arduino#otra-documentaci%C3%B3n-y-enlaces)
+
+* [Referencia de markdown y emojis](https://github.com/ItsMonxxu/Arduino#referencia-de-markdown-y-emojis)
+
+* [empezando a documentar](https://github.com/ItsMonxxu/Arduino#empezando-a-documentar)
+
 
 ## Proyectos con LED
 
