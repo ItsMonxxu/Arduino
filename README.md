@@ -14,6 +14,12 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 ## Proyectos con LED
 
+[pwm1 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM1_arduino.ino)
+
+[pwm2 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM2_arduino.ino)
+
+[PWM3 ARDUINO](https://github.com/ItsMonxxu/Arduino/blob/main/PWM3_ARDIONO.ino)
+
 [arduino 5 leds](https://github.com/ItsMonxxu/Arduino/blob/main/ARDUINO_5_LED_TEMPERATURA.ino)
 
 [led rapido+boton](https://github.com/ItsMonxxu/Arduino/blob/main/Arduino_leddd_rapido_programa_boton.ino)
@@ -29,6 +35,12 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 ## Proyectos LED RGB
 
 ## Proyectos con altaboz
+
+[fermin arduino](https://github.com/ItsMonxxu/Arduino/blob/main/fermin_arduino.ino)
+
+[STAR WARS](https://github.com/ItsMonxxu/Arduino/blob/main/melodu_star_wars.ino)
+
+[PITO MUSIC](https://github.com/ItsMonxxu/Arduino/blob/main/pitomusic.ino)
 
 ### Proyectos con servomotor y potenciómetro 
 
@@ -51,15 +63,6 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 
  
-* [pwm1 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM1_arduino.ino)
-
-* [pwm2 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM2_arduino.ino)
-
-* [fermin arduino](https://github.com/ItsMonxxu/Arduino/blob/main/fermin_arduino.ino)
-
-
-
-
 
 
 Este texto no tiene formato, **en negrita** y este _esta en cursiva_
