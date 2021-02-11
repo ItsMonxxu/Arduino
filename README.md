@@ -12,6 +12,24 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 ## Índice de proyectos
 
+## Proyectos con LED
+
+[arduino 5 leds](https://github.com/ItsMonxxu/Arduino/blob/main/ARDUINO_5_LED_TEMPERATURA.ino)
+
+[led rapido+boton](https://github.com/ItsMonxxu/Arduino/blob/main/Arduino_leddd_rapido_programa_boton.ino)
+
+[leds arduino bucle](https://github.com/ItsMonxxu/Arduino/blob/main/LEDS_ARDUINO_BUCLE.ino)
+
+## Proyectos sensor temperatura
+
+[Indicador del estado de ánimo](https://github.com/ItsMonxxu/Arduino/blob/main/Indicador_de_estado_de_animo_arduino.ino)
+
+[bucle for](https://github.com/ItsMonxxu/Arduino/blob/main/BUCLE_FOR.ino)
+
+## Proyectos LED RGB
+
+## Proyectos con altaboz
+
 ### Proyectos con servomotor y potenciómetro 
 
 [Proyecto de servomotor con potenciómetro]()
@@ -19,6 +37,10 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 ![texto](https://github.com/ItsMonxxu/Arduino/blob/main/IMG_20210208_123210.jpg)
 
 ### Otra documentación y enlaces
+
+[CLASE](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
+[Instagram ItsMonxxu](https://www.instagram.com/itsmonxxu/)
 
 #### Referencia de markdown y emojis
 
@@ -28,26 +50,12 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 
 
-
-* [Indicador del estado de ánimo](https://github.com/ItsMonxxu/Arduino/blob/main/Indicador_de_estado_de_animo_arduino.ino)
-
-* [arduino 5 leds](https://github.com/ItsMonxxu/Arduino/blob/main/ARDUINO_5_LED_TEMPERATURA.ino)
-
-* [led rapido+boton](https://github.com/ItsMonxxu/Arduino/blob/main/Arduino_leddd_rapido_programa_boton.ino)
-
-* [bucle for](https://github.com/ItsMonxxu/Arduino/blob/main/BUCLE_FOR.ino)
-
-* [leds arduino bucle](https://github.com/ItsMonxxu/Arduino/blob/main/LEDS_ARDUINO_BUCLE.ino)
  
 * [pwm1 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM1_arduino.ino)
 
 * [pwm2 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM2_arduino.ino)
 
 * [fermin arduino](https://github.com/ItsMonxxu/Arduino/blob/main/fermin_arduino.ino)
-
-
-[CLASE](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
-
 
 
 
@@ -62,12 +70,6 @@ Este texto no tiene formato, **en negrita** y este _esta en cursiva_
 
 <del>texto</del>
 
-### Proyectos
-### Proyectos 
-### Proyectos
-### Proyectos
-### Proyectos
-### Proyectos
 
 ## empezando a documentar 
 Esta es mi primerita vez
