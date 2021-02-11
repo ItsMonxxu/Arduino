@@ -1,6 +1,24 @@
 #  Proyecto de arduino
 ## empezando a documentar 
 Esta es mi primerita vez
+
+
+Este texto no tiene formato, **en negrita** y este _esta en cursiva_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Cosas de programación Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
