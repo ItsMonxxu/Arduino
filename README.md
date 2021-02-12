@@ -54,6 +54,7 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 ## Proyectos LED RGB
 
 ## Proyectos con altaboz
+[instrumento de teclado](https://github.com/ItsMonxxu/Arduino/blob/main/instumento_de_teclado.ino)
 
 [fermin arduino](https://github.com/ItsMonxxu/Arduino/blob/main/fermin_arduino.ino)
 
