@@ -70,7 +70,9 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 ### Proyectos sin delay() 
 
-[reloj de arena dijital](https://github.com/ItsMonxxu/Arduino/blob/main/reloj_de_arena_digital.ino)
+[reloj de arena dijital](https://github.com/ItsMonxxu/Arduino/blob/main/reloj_dijital_primero.ino)
+
+[reloj de arena dijital alternado](https://github.com/ItsMonxxu/Arduino/blob/main/reloj_de_arena_digital.ino)
 
 ### Otra documentación y enlaces
 
