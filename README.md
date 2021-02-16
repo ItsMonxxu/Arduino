@@ -6,7 +6,7 @@
 
 Esto es parte de la programación de **arduino**. Lo que ves esta creado por Ramon Mir mejor conocido como ItsMonxxu 
 [Instagram](https://www.instagram.com/itsmonxxu/) 
-te dejo el instagram por si quieres ver como soy y lo que hago cada dia y si quieres seguirme puedes seguir.  Esto es lo que hacemos con arduino, esto lo subo aqui por si alguien lo quiere usar o por si alguien necesita ayuda aqui lo tiene echo y por si lo quieres hacer tu lo puedes usar de guia.
+te dejo el instagram por si quieres ver como es y lo que hace cada dia y si quieres seguirlo puedes seguirle.  Esto es lo que hacen con arduino, esto lo subo aqui por si alguien lo quiere usar o por si alguien necesita ayuda aqui lo tiene echo y por si lo quieres hacer tu lo puedes usar de guia.
 
  Cualquier cosa al MD de instagram.
 
