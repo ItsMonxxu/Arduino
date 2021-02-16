@@ -4,7 +4,7 @@ unsigned long TiempoPrevio = 0;
 int EstadodelInterruptor = 0;
 int EstadoPreviodelInterruptor = 0;
 int indiceLedPin = 0;
-long TiempoIntervalocadaLed = 1000; // Tiempo indicado en milisegundos, por tanto 10 segundos
+long TiempoIntervalocadaLed = 1000; // Tiempo indicado en milisegundos, por tanto 1 segundo
 const int ledPins[] = {
   2,
   4,
