@@ -31,6 +31,8 @@ te dejo el instagram por si quieres ver como soy y lo que hago cada dia y saber 
 
 ## Proyectos con LED
 
+[reloj de arena dijital](https://github.com/ItsMonxxu/Arduino/blob/main/reloj_de_arena_digital.ino)
+
 [pwm1 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM1_arduino.ino)
 
 [pwm2 arduino](https://github.com/ItsMonxxu/Arduino/blob/main/PWM2_arduino.ino)
