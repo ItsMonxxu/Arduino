@@ -63,6 +63,7 @@ te dejo el instagram por si quieres ver como es y lo que hace cada dia y si quie
 [PITO MUSIC](https://github.com/ItsMonxxu/Arduino/blob/main/pitomusic.ino)
 
 ### Proyectos con servomotor y potenciómetro 
+[lo hemos hecho el weslwy el bangwei y yo es el dibujo en el motor](https://github.com/Wesley3455/Arduino-/blob/main/wesley.jpg)
 
 [Proyecto de servomotor con potenciómetro]()
 
