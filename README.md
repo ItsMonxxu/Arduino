@@ -63,7 +63,7 @@ te dejo el instagram por si quieres ver como es y lo que hace cada dia y si quie
 [PITO MUSIC](https://github.com/ItsMonxxu/Arduino/blob/main/pitomusic.ino)
 
 ### Proyectos con servomotor y potenciómetro 
-[motor + 7leds + boton]((https://github.com/ItsMonxxu/Arduino/blob/main/hhkgfhjzf_thcf_ghxfcgh.ino)
+[motor + 7leds + boton](https://github.com/ItsMonxxu/Arduino/blob/main/hhkgfhjzf_thcf_ghxfcgh.ino)
 
 [motor 9v](https://github.com/ItsMonxxu/Arduino/blob/main/motor_tecladoo.ino)
 
