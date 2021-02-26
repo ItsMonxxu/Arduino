@@ -72,6 +72,7 @@ te dejo el instagram por si quieres ver como es y lo que hace cada dia y si quie
 ![texto](https://github.com/ItsMonxxu/Arduino/blob/main/IMG_20210208_123210.jpg)
 
 ### Proyectos sin delay() 
+[jostic](https://github.com/ItsMonxxu/Arduino/blob/main/sketch_feb25b.ino)
 [contador arduino](https://github.com/ItsMonxxu/Arduino/blob/main/contador_arduino.ino)
 
 [reloj de arena dijital](https://github.com/ItsMonxxu/Arduino/blob/main/reloj_dijital_primero.ino)
