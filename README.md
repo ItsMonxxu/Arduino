@@ -80,6 +80,7 @@ te dejo el instagram por si quieres ver como es y lo que hace cada dia y si quie
 [reloj de arena dijital alternado](https://github.com/ItsMonxxu/Arduino/blob/main/reloj_de_arena_digital.ino)
 
 ## Jostik
+[jostik TESORO](https://github.com/ItsMonxxu/Arduino/blob/main/sketch_mar04a.ino)
 [jostik led](https://github.com/ItsMonxxu/Arduino/blob/main/sketch_feb25b.ino)
 
 ### Otra documentación y enlaces
