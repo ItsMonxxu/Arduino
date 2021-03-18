@@ -53,8 +53,10 @@ te dejo el instagram por si quieres ver como es y lo que hace cada dia y si quie
 
 ## Proyectos LED RGB
 
-## Proyectos con altaboz
+## Proyectos con altavoz
 [instrumento de teclado](https://github.com/ItsMonxxu/Arduino/blob/main/instumento_de_teclado.ino)
+
+Melodía (seguramente una variación): https://github.com/ItsMonxxu/Arduino/blob/main/sketch_feb05a.ino
 
 [fermin arduino](https://github.com/ItsMonxxu/Arduino/blob/main/fermin_arduino.ino)
 
