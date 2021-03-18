@@ -84,6 +84,10 @@ te dejo el instagram por si quieres ver como es y lo que hace cada dia y si quie
 
 [jostik led](https://github.com/ItsMonxxu/Arduino/blob/main/sketch_feb25b.ino)
 
+### Proyectos en curso
+
+[zotropo](https://github.com/ItsMonxxu/Arduino/blob/main/zootropo.ino)
+
 ### Otra documentación y enlaces
 
 [CLASE](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
