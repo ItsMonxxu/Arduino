@@ -97,10 +97,31 @@ blueSensorValue = analogRead(blueSensorPin);
 
 void loop() {
 swichstate = digitalRead(buttonPin);
-  if(swichstate == HIGH){
-    Stitch();
+  if(swichstate == HIGH)
+  {
+    if(isTheButtonPressed == false){
+      isTheButtonPressed = true;
+//      if(StitchFlag == false){
+//        Serial.println("Encender");
+//        StitchFlag = true;
+//        }
+//        else{
+//        Serial.println("Holi");
+//        StitchFlag = false;
+//        }
+   StitchFlag = !StitchFlag;
   }
+  }                       
   else{
+    
+    isTheButtonPressed = false;
+    }
+    
+    if (StitchFlag ==true){
+      
+      Stitch();
+    }
+    else {
     analogWrite(redLEDPin, 0);
     analogWrite(greenLEDPin, 0);
     analogWrite(blueLEDPin, 0);
