@@ -8,7 +8,7 @@ Esto es parte de la programación de **arduino**. Lo que ves esta creado por Ram
 [Instagram](https://www.instagram.com/itsmonxxu/) 
 te dejo el instagram por si quieres ver como es y lo que hace cada dia y si quieres seguirlo puedes seguirle.  Esto es lo que hacen con arduino, esto lo subo aqui por si alguien lo quiere usar o por si alguien necesita ayuda aqui lo tiene echo y por si lo quieres hacer tu lo puedes usar de guia.
 
- Cualquier cosa al MD de instagram.
+
 
 ## Índice de proyectos
 
