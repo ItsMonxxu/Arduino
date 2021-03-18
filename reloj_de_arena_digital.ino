@@ -4,7 +4,7 @@ unsigned long TiempoPrevio = 0;
 int EstadodelInterruptor = 0;
 int EstadoPreviodelInterruptor = 0;
 int indiceLedPin = 0;
-long TiempoIntervalocadaLed = 1000; // Tiempo indicado en milisegundos, por tanto 1 segundo
+long TiempoIntervalocadaLed = 1000; // Tiempo indicado en milisegundos, por tanto 10 segundos
 const int ledPins[] = {
   2,
   4,
@@ -34,11 +34,11 @@ void loop() {
         for(int x = 2;x<8;x++){
           digitalWrite(x, LOW);
          }
-        delay(500);
+        delay(1000);
         for(int x = 2;x<8;x++){
           digitalWrite(x, HIGH);
          }
-        delay(500);
+        delay(1000);
     }
   }
   EstadodelInterruptor = digitalRead(PinInterruptor);

@@ -1,6 +1,6 @@
 /*
-   Nombre: Ramon
-   Fecha: 23/02/2021
+   Nombre: David Prieto
+   Fecha: 21/02/2021
    Este programa es una modificación del Reloj digital (proyecto del starter kit)
    Al pulsar el botón comienza a encender los leds. Al volver a pulsarlo, se apagan en el orden inverso de encenderse. 
    Al cambiar de pulsación sigue encendiendo o apagando donde lo dejó. 

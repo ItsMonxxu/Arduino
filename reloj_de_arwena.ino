@@ -5,7 +5,7 @@ unsigned long TiempoPrevio = 0;
 int EstadodelInterruptor = 0;
 int EstadoPreviodelInterruptor = 0;
 int Led = 2;
-long TiempoIntervalocadaLed = 500; // Tiempo indicado en milisegundos, por tanto 10 segundos
+long TiempoIntervalocadaLed = 1000; // Tiempo indicado en milisegundos, por tanto 10 segundos
 
 // Configurar la placa Arduino
 void setup() {
