@@ -89,6 +89,8 @@ Melodía (seguramente una variación): https://github.com/ItsMonxxu/Arduino/blob
 ## Examen
 [proyecto 1](https://github.com/ItsMonxxu/Arduino/blob/main/problema_1_1_1_1_1_1jujhgvgty.ino)
 
+[proyecto 3](https://github.com/ItsMonxxu/Arduino/blob/main/proyecto_3.ino)
+
 ### Proyectos en curso
 
 [zotropo](https://github.com/ItsMonxxu/Arduino/blob/main/zootropo.ino)
