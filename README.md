@@ -86,6 +86,9 @@ Melodía (seguramente una variación): https://github.com/ItsMonxxu/Arduino/blob
 
 [jostik led](https://github.com/ItsMonxxu/Arduino/blob/main/sketch_feb25b.ino)
 
+## Examen
+[proyecto 1](https://github.com/ItsMonxxu/Arduino/blob/main/problema_1_1_1_1_1_1jujhgvgty.ino)
+
 ### Proyectos en curso
 
 [zotropo](https://github.com/ItsMonxxu/Arduino/blob/main/zootropo.ino)
