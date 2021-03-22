@@ -65,6 +65,9 @@ Melodía (seguramente una variación): https://github.com/ItsMonxxu/Arduino/blob
 [PITO MUSIC](https://github.com/ItsMonxxu/Arduino/blob/main/pitomusic.ino)
 
 ### Proyectos con servomotor y potenciómetro 
+
+[cerrojo puerta ](https://github.com/ItsMonxxu/Arduino/blob/main/cerrojo_de_puerta_de_arduino.ino)
+
 [motor + 7leds + boton](https://github.com/ItsMonxxu/Arduino/blob/main/hhkgfhjzf_thcf_ghxfcgh.ino)
 
 [motor 9v](https://github.com/ItsMonxxu/Arduino/blob/main/motor_tecladoo.ino)
